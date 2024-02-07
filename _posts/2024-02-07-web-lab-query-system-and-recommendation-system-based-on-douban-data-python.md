@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Web Lab --- Query System and Recommendation System based on Douban Data(Python)
+date: 2024-02-07 12:18 +0800
 ---
-
 # 实验 1 信息获取与检索分析
 
 时数 PB21000052
